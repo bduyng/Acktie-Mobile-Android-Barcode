@@ -13,3 +13,4 @@ build
 .svn
 _svn
 svn-commit*.tmp
+.DS_Store
