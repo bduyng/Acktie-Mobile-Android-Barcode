@@ -8,6 +8,7 @@
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/camera/CameraSurfaceView.java"
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/src/com/acktie/mobile/android/zbar/ZBarManager.java"
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/build/generated/java/com/acktie/mobile/android/barcode/AcktiemobileandroidbarcodeBootstrap.java"
+"/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/build/generated/java/com/acktie/mobile/android/barcode/CommonJsSourceProvider.java"
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/build/generated/r/android/support/compat/R.java"
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/build/generated/r/android/support/coreui/R.java"
 "/Users/bduyng/Developer/TitaniumHome/Acktie-Mobile-Android-Barcode/build/generated/r/android/support/coreutils/R.java"
